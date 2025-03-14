@@ -1,0 +1,38 @@
+[
+  {
+    "thumbNail": "http://soonproject04.dothome.co.kr/dataImg/maintrend/t01.png",
+    "package": "골프",
+    "title": "[방콕 5일]",
+    "tag": "#가성비 #썬밸리 #다색골프#무제한골프",
+    "day": "2025.02.27 ~ 2025.03.02",
+    "price": "1,059,000",
+    "link": "/thai/0"
+  },
+  {
+    "thumbNail": "http://soonproject04.dothome.co.kr/dataImg/maintrend/t02.png",
+    "package": "골프",
+    "title": "[치앙마이 5일]",
+    "tag": "#다색골프 #실속골프 #관광포함 #시내호텔 #쇼핑2회",
+    "day": "2025.02.27 ~ 2025.03.02",
+    "price": "1,809,000",
+    "link": "/thai/1"
+  },
+  {
+    "thumbNail": "http://soonproject04.dothome.co.kr/dataImg/maintrend/t03.png",
+    "package": "골프",
+    "title": "부산출발 태국/파타야 골프 5일",
+    "tag": "#다색골프 #54H",
+    "day": "2025.02.27 ~ 2025.03.03",
+    "price": "1,779,000",
+    "link": "/thai/2"
+  },
+  {
+    "thumbNail": "http://soonproject04.dothome.co.kr/dataImg/maintrend/t04.png",
+    "package": "골프",
+    "title": "부산출발 태국/후아힌 골프 5일 마제스틱/팜힐스/스프링필드 CC 54H",
+    "tag": "#품격",
+    "day": "2025.02.27 ~ 2025.03.02",
+    "price": "2,089,000",
+    "link": "/thai/3"
+  }
+]
